@@ -1,0 +1,2 @@
+positives/genuine_currency.jpeg 1 50 50 100 100
+positives/genuine_currency.PNG 1 60 60 120 120
